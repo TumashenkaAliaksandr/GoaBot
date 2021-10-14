@@ -1,1 +1,1 @@
-worker: python Goamb.py
+worker: python G_mb.py
