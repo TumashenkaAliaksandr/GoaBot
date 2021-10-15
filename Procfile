@@ -1,1 +1,1 @@
-worker: python G_mb.py
+worker: python g_mb.py
